@@ -1,0 +1,53 @@
+body {
+  background-image: url("/home/kehli/Images/marrakech.jpg");
+  background-repeat: no-repeat;
+  background-attachment : scroll;
+  background-size: cover;
+}
+
+h1{
+  text-align:center;
+  font-style: italic;
+  font-size: 100px;
+}
+
+section {
+  text-align: center;
+}
+
+.intro p{
+    /*background-image: url("/home/kehli/Images/couleursfond.jpeg");*/
+    background-repeat: no-repeat;
+    background-color:white;
+    border-radius: 50px;
+    box-shadow: 0 0 20px #555;
+    width:180px;
+    height:300px;
+    text-align: center;
+    position: relative;
+    background-color:black;
+    color: white;
+}
+
+li{
+  display:inline;
+  margin-right: 1px;
+}
+
+h2{
+  text-align: center;
+}
+/*
+p{
+  text-align: center;
+}
+*/
+/*
+#icones{
+  vertical-align: middle;
+}
+*/
+
+.icones{
+  line-height:1px;
+}
